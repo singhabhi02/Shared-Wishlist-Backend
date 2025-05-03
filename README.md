@@ -1,4 +1,4 @@
-# 📝 Shared-Wishlish-Backend
+# 📝 Shared-Wishlist-App-Backend
 
 This is the **backend** portion of the full-stack **Shared-Wishlish-Backend** application — a collaborative wishlist manager. It exposes RESTful APIs to handle user authentication, wishlist creation, product management, and more.
 
